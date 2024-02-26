@@ -1,0 +1,9 @@
+### Get all
+GET http://localhost:3000/products
+
+### Get one
+GET http://localhost:3000/products/
+
+### Search
+GET http://localhost:3000/products?sortCol=id&sortOrder=asc&limit=20&offset=20
+
